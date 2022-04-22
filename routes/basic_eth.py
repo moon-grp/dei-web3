@@ -8,7 +8,7 @@ load_dotenv()
 
 
 infuraUrl = os.getenv("IUrl")
-#infuraUrl = "https://mainnet.infura.io/v3/e9d8cbfbc4a74312a35a971807c58fd3"
+
 
 
 
